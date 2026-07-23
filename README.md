@@ -1,7 +1,7 @@
 ```markdown name=README.md url=https://github.com/extra-emi/Heart-JS/blob/main/README.md
 # Heart-JS
 
-> secret 😊
+> secret for @DAPOWER99 😊
 
 ## About
 
@@ -44,7 +44,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Made with ❤️
+Made with ❤️ 
 
 ```
 
